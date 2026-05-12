@@ -9,3 +9,9 @@ git config --global user.name "SMCampos"
 git status – mostra o status do repositório
 git add – adiciona o que vai ser enviado para o commit
 git commit -m “mensagem do commit” – criar um commit
+git status – mostra o status do repositório
+git add – adiciona cada arquivo que vai ser enviado para o commit
+git add . – adiciona todos os arquivos dentro da pasta atual
+git commit -m “mensagem do commit” – criar um commit
+git log – mostra todos os commits feitos
+git diff nome_do_arquivo– mostra o que foi alterado em um arquivo desde o último commit
