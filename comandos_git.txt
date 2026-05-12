@@ -1,12 +1,3 @@
-Comandos do GIT
-ls – lista os diretórios
-cd – move entre os diretórios
-pwd – caminho completo do diretório
-ls -a – mostra diretórios ocultos
-Ctrl + L – limpa a tela
-mkdir – cria uma pasta nova
-
-Criar um repositório GIT
 git init . – Transforma a pasta em um repositório Git
 rm -rf .git/ - excluir uma pasta/repositório GIT
 
